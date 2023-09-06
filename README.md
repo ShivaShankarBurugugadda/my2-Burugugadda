@@ -18,3 +18,6 @@ Kovalam is an internationally renowned beach with three adjacent crescent beache
 * crabs 
 * prawns
 * lobsters
+
+### Link to MyStats.md:
+*** https://github.com/ShivaShankarBurugugadda/my2-Burugugadda/blob/main/MyStats.md ***
