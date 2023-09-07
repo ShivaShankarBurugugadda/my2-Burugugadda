@@ -16,4 +16,12 @@ Sport means all forms of physical activity which, through casual or organised pa
 |Swimming|Soothes Your Mind and Reduces Anxiety|45mins|
 |Running|Aerobic Exercise Get your Heart Rate Up and Makes You Sweat|30mins|
 
+*****
+
+# Quotes
+
+>Suffering Is The Essence Of Success!!!-___DR.APJ ABDUL KALAM___
+
+>India lives In Several Centuries At The Same Time-___Arundhati Roy___
+
 
