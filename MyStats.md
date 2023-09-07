@@ -24,4 +24,30 @@ Sport means all forms of physical activity which, through casual or organised pa
 
 >India lives In Several Centuries At The Same Time-___Arundhati Roy___
 
+***
 
+## Code Fencing
+
+[Stack Overflow Link](https://stackoverflow.com/questions/38048131/how-to-newline-in-html-button)
+
+### Code Snippet:
+
+
+
+```
+<button>
+  some
+  <br />
+  text
+</button>
+
+<input type="button" value="some&#13;&#10;text" />
+
+<input type="button" value="some&#x00A;text" />
+
+<input type="button" value="Really&#x00A;Tall&#x00A;Button">
+
+```
+<br>
+
+[code link:](https://css-tricks.com/snippets/html/button-with-line-breaks/)
